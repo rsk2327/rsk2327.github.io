@@ -6,7 +6,6 @@
     <description>Recent content in Tags on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://rsk2327.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -22,20 +21,20 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://rsk2327.github.io/tags/deep-learning/</link>
+      <title>computer-vision</title>
+      <link>https://rsk2327.github.io/tags/computer-vision/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://rsk2327.github.io/tags/deep-learning/</guid>
+      <guid>https://rsk2327.github.io/tags/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://rsk2327.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      <title>machine-learning</title>
+      <link>https://rsk2327.github.io/tags/machine-learning/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://rsk2327.github.io/tags/demo/</guid>
+      <guid>https://rsk2327.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     

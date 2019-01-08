@@ -52,15 +52,15 @@
     
     <url>
     
-      <loc>https://rsk2327.github.io/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <loc>https://rsk2327.github.io/project/design-of-neural-networks-using-neat/</loc>
+      <lastmod>2016-05-27T00:00:00+05:30</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://rsk2327.github.io/project/internal-project/</loc>
+      <loc>https://rsk2327.github.io/project/brain-tumor-segmentation-using-conditional-random-fields/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
     </url>
     
@@ -136,26 +136,8 @@
     
     <url>
     
-      <loc>https://rsk2327.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rsk2327.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://rsk2327.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <lastmod>2016-05-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -189,6 +171,24 @@
     
       <loc>https://rsk2327.github.io/tags/</loc>
       <lastmod>2018-01-13T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rsk2327.github.io/tags/computer-vision/</loc>
+      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rsk2327.github.io/tags/machine-learning/</loc>
+      <lastmod>2016-05-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
