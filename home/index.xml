@@ -35,16 +35,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://rsk2327.github.io/home/about/</guid>
-      <description>Biography I&amp;rsquo;m a first year graduate student of the Data Science program at the University of Pennsylvania. fsdfsdfsdfs fs dfs df sdf sdf s I&amp;rsquo;m a first year graduate student of the Data Science program at the University of Pennsylvania. fsdfsdfsdfs fs dfs df sdf sdf sI&amp;rsquo;m a first year graduate student of the Data Science program at the University of Pennsylvania. fsdfsdfsdfs fs dfs df sdf sdf s I&amp;rsquo;m a first year graduate student of the Data Science program at the University of Pennsylvania.</description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>https://rsk2327.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://rsk2327.github.io/home/skills/</guid>
-      <description></description>
+      <description>Biography I&amp;rsquo;m a first year graduate student of the Data Science program at the University of Pennsylvania. A research-oriented autodidact, most of my knowledge has been derived from online courses and Kaggle discussion boards. I&amp;rsquo;m particularly interested in the application of Machine Learning and Deep Learning techniques in the health, finance and customer analytics domains.
+Besides academics, my interests include Photography, Badminton, Basketball, and playing the Guitar and Tabala.</description>
     </item>
     
     <item>
@@ -66,7 +58,7 @@
     </item>
     
     <item>
-      <title>Accomplish&amp;shy;ments</title>
+      <title>Roles</title>
       <link>https://rsk2327.github.io/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -120,14 +112,13 @@
     </item>
     
     <item>
-      <title>Teaching</title>
+      <title></title>
       <link>https://rsk2327.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://rsk2327.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description> Courses 
+           Introduction to Big Data with Spark Fast.AI Scalable Machine Learning Time Series Analysis   Big Data Analytics (Advanced Track) Artificial Intelligence Statistical Learning Machine Learning   Biostatistics Data Structures and Algorithms (Python) Analytics Edge Practical Predictive Analytics    </description>
     </item>
     
     <item>
@@ -136,6 +127,15 @@ I am a teaching instructor for the following courses at University X:
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
       
       <guid>https://rsk2327.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://rsk2327.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://rsk2327.github.io/home/skills/</guid>
       <description></description>
     </item>
     
