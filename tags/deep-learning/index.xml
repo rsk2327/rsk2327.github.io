@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>computer-vision on Academic</title>
-    <link>https://rsk2327.github.io/tags/computer-vision/</link>
-    <description>Recent content in computer-vision on Academic</description>
+    <title>deep-learning on Academic</title>
+    <link>https://rsk2327.github.io/tags/deep-learning/</link>
+    <description>Recent content in deep-learning on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 May 2016 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://rsk2327.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rsk2327.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Fri, 27 May 2016 00:00:00 +0530</pubDate>
       
       <guid>https://rsk2327.github.io/project/deep-learning-methods-for-classification-with-limited-datasets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brain Tumor Segmentation using Conditional Random Fields</title>
-      <link>https://rsk2327.github.io/project/brain-tumor-segmentation-using-conditional-random-fields/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://rsk2327.github.io/project/brain-tumor-segmentation-using-conditional-random-fields/</guid>
       <description></description>
     </item>
     
