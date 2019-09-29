@@ -52,6 +52,14 @@
     
     <url>
     
+      <loc>https://rsk2327.github.io/project/deep-learning-for-chest-xray-diagnosis/</loc>
+      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rsk2327.github.io/project/deep-learning-methods-for-classification-with-limited-datasets/</loc>
       <lastmod>2016-05-27T00:00:00-04:00</lastmod>
     </url>
@@ -77,6 +85,14 @@
     <url>
     
       <loc>https://rsk2327.github.io/project/tictactoe-bot/</loc>
+      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rsk2327.github.io/project/training-domain-specific-glove-vectors/</loc>
       <lastmod>2016-05-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -229,6 +245,15 @@
     <url>
     
       <loc>https://rsk2327.github.io/tags/machine-learning/</loc>
+      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rsk2327.github.io/tags/nlp/</loc>
       <lastmod>2016-05-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
