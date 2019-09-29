@@ -6,13 +6,13 @@
     <description>Recent content in Academic on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Example Page</title>
       <link>https://rsk2327.github.io/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://rsk2327.github.io/tutorial/example/</guid>
       <description>
@@ -32,7 +32,7 @@
     <item>
       <title>Example Talk</title>
       <link>https://rsk2327.github.io/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://rsk2327.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
@@ -56,7 +56,7 @@
     <item>
       <title>Deep Learning methods for classification with Limited Datasets</title>
       <link>https://rsk2327.github.io/project/deep-learning-methods-for-classification-with-limited-datasets/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rsk2327.github.io/project/deep-learning-methods-for-classification-with-limited-datasets/</guid>
       <description></description>
@@ -65,7 +65,7 @@
     <item>
       <title>Design of Neural Networks using NEAT</title>
       <link>https://rsk2327.github.io/project/design-of-neural-networks-using-neat/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rsk2327.github.io/project/design-of-neural-networks-using-neat/</guid>
       <description></description>
@@ -74,7 +74,7 @@
     <item>
       <title>Optimization of Bayesian Networks</title>
       <link>https://rsk2327.github.io/project/optimization-of-bayesian-networks/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rsk2327.github.io/project/optimization-of-bayesian-networks/</guid>
       <description></description>
@@ -83,7 +83,7 @@
     <item>
       <title>TicTacToe Bot</title>
       <link>https://rsk2327.github.io/project/tictactoe-bot/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rsk2327.github.io/project/tictactoe-bot/</guid>
       <description></description>
@@ -92,7 +92,7 @@
     <item>
       <title>YOLO</title>
       <link>https://rsk2327.github.io/project/yolo/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rsk2327.github.io/project/yolo/</guid>
       <description></description>
@@ -101,7 +101,7 @@
     <item>
       <title>Brain Tumor Segmentation using Conditional Random Fields</title>
       <link>https://rsk2327.github.io/project/brain-tumor-segmentation-using-conditional-random-fields/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rsk2327.github.io/project/brain-tumor-segmentation-using-conditional-random-fields/</guid>
       <description></description>
@@ -110,7 +110,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://rsk2327.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rsk2327.github.io/post/getting-started/</guid>
       <description>
@@ -482,7 +482,7 @@ git submodule update --init --recursive
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
       <link>https://rsk2327.github.io/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
       
       <guid>https://rsk2327.github.io/publication/person-re-id/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -492,7 +492,7 @@ git submodule update --init --recursive
     <item>
       <title>Mobile visual clothing search</title>
       <link>https://rsk2327.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
       
       <guid>https://rsk2327.github.io/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
